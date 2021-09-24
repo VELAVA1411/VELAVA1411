@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Velava L</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-![gif3](https://user-images.githubusercontent.com/58679562/134622150-ab3bd45e-d9d4-4f1c-ac28-b1fa75589c90.gif)
+(https://user-images.githubusercontent.com/58679562/134622150-ab3bd45e-d9d4-4f1c-ac28-b1fa75589c90.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velava1411&label=Profile%20views&color=0e75b6&style=flat" alt="velava1411" /> </p>
 
