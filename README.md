@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm Velava</h1>
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 <h3 align="center">A passionate full stack developer from India</h3>
-
+<img align="centre" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velava1411&label=Profile%20views&color=0e75b6&style=flat" alt="velava1411" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=velava1411" alt="velava1411" /></a> </p>
