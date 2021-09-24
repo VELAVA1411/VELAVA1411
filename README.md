@@ -7,6 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/velava1411" target="blank"><img src="https://img.shields.io/twitter/follow/velava1411?logo=twitter&style=for-the-badge" alt="velava1411" /></a> </p>
 
+- 🔭 I'm currently Studying as a full stack developer at RVS CAS
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with web development projects
+- ⚡ Fun fact: I love to travel and playing games
+- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me **velava1411@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
