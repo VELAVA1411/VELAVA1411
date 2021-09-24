@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=velava1411&" alt="velava1411" /></p>
 
-### Show some ❤️ by starring some of the repositories!
+<p align="center"> <b>Show some ❤️ by starring some of the repositories!</b> </p>
