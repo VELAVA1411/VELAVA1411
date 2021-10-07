@@ -3,7 +3,6 @@
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 - 🔭 I'm currently studying as a full stack developer at RVS CAS
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with web development projects
 - ⚡ Fun fact: I love to travel and playing games
 - 💬 Ask me about anything, I am happy to help;
